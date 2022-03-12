@@ -1,0 +1,12 @@
+{
+
+  "scripts":{
+    "start": "vitenpx tailwindcss init"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.0.23"
+  },
+  "dependencies": {
+    "vite": "^2.8.6"
+  }
+}
